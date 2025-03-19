@@ -1,1 +1,3 @@
 # BlurApp
+
+This is currently developing and testing an innovative electron application for macOS, crafted by the talented team at Blurry Studios. The project aims to provide a seamless user experience, integrating modern design principles with powerful functionality. Developers at Blurry Studios are working diligently to ensure that the application not only meets the highest standards of performance but also offers intuitive features that cater to the needs of macOS users. Through thorough testing and user feedback, they focus on refining every application aspect to create a reliable and enjoyable tool. As the project progresses, the team is excited to share updates and showcase how this application will enhance productivity and creativity for its users.
